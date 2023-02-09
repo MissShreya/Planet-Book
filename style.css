@@ -1,0 +1,170 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background-color: #E8E2E2;
+} 
+/* logo------------------------------- */
+.images img{
+    height:50px;
+    width:120px;
+} 
+/* navbar */
+.topnav{
+    background-color: #E8E2E2;
+}
+/* ---------------------------------- */
+.lefty{
+    float:right;
+}
+.slide{
+    max-height:600px;
+}
+.carousel-inner{
+    position:absolute;
+    bottom: 0;
+    left:0;
+}
+.content{
+font-size: 17px;
+color:#E8E2E2;
+}
+.slide{
+    background-color: #5D3891;
+    color:#E8E2E2;
+}
+.a a {
+    text-decoration: none;
+    font-size: 20px;
+    color:#E8E2E2;
+}
+.a{
+    text-align: center;
+}
+h2{
+text-align: center;
+color:#E8E2E2;
+}
+/* boxes */
+.card-center{
+  
+    text-align: center;
+}
+.card-body a,h5{
+    text-decoration: none;
+    color:black;
+    font-size: 10px;
+
+}
+.card-body a,h4{
+    text-decoration: none;
+    color:#5D3891;
+    font-size: 10px;
+
+}
+.card-body a,p{
+    color: #837b8f;
+}
+/* category */
+.img{
+    height: 200px;
+}
+.category{
+    margin:15px;
+    padding: 20px;
+    color:black;
+    background-color: rgb(180, 175, 175);
+    text-align: center;
+    border-radius: 5px;
+}
+.view {
+    text-align: center;
+    margin:15px;
+    padding: 20px;
+}
+.view a{
+    text-decoration: none;
+color:#5D3891;
+font-size: 18px;
+}
+/* Popular Book */
+.popular{
+    background-color: white;
+}
+.popular-book{
+    background-color: white;;
+}
+/* Other-book */
+.ob{
+    height:200px;
+    margin: 20px;
+}
+.img-book{
+    height:150px;
+    background-color: gray;
+}
+.view1 {
+    text-align: center;
+    /* margin:15px; */
+    padding: 50px;
+}
+.view1 a{
+    text-decoration: none;
+color:#5D3891;
+font-size: 18px;
+font: bold;
+}
+/* footer */
+.footer .row{
+    margin: 15px;
+    padding: 50px;
+    border-radius: 5px;
+    font-size: 14px;
+    color:white;
+    font-family: sans-serif;
+}
+.footer .row a{
+    text-decoration: none;
+    color:white;
+}
+/* ------------------------------------------------t&c---------------------------------------- */
+ .t-c{
+    padding: 50px;
+}
+/* ------------------------------------------------login--------------------------------------- */
+.login{
+   background-color: #837b8f;
+}
+
+.t-c img{
+    height:200px;  
+    margin-top: -50px;  
+}
+/* ------------------------------Category------------------ */
+.bgradient{
+    height:250px;
+    background-color:#E8E2E2;
+    background: linear-gradient(90deg, rgb(143, 135, 148) 0%, rgb(61, 101, 117) 50%, rgb(137, 180, 211) 100%);
+}
+
+/* -------------------------------------- */
+.pdf{
+    height:50px;
+    background-color: #5D3891;
+    border-bottom: 1px solid red;
+}
+.size{
+    text-align: center;
+padding: 15px ;
+}
+.center {
+    
+    width: 100%;
+    /* margin-top: 60px; */
+    padding: 10px;
+    text-align: center;
+    bottom:0;
+    position: fixed;
+    background-color: #837b8f;
+  }
+ 
